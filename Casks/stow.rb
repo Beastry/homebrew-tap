@@ -1,6 +1,6 @@
 cask "stow" do
-  version "0.1.3"
-  sha256 "268c9fe2d1f524c69ad327fd21c45f33b539a5e36f17b6adcd52ee7fe2e5c244"
+  version "0.1.4"
+  sha256 "584deb93a673af0f5f6d812d8127e0190ce4a2728a6e637c660099f77418fff3"
 
   url "https://github.com/Beastry/stow/releases/download/v#{version}/Stow-#{version}.dmg"
   name "Stow"
